@@ -1,0 +1,29 @@
+[
+  {
+    "r": 8,
+    "trainable_params": 16232448,
+    "final_loss": 0.7875,
+    "target_score": 0.855,
+    "format": 1.0,
+    "train_seconds": 407.4,
+    "peak_vram_gb": 8.5095
+  },
+  {
+    "r": 16,
+    "trainable_params": 32464896,
+    "final_loss": 0.6248,
+    "target_score": 0.98,
+    "format": 1.0,
+    "train_seconds": 389.1,
+    "peak_vram_gb": 8.78
+  },
+  {
+    "r": 64,
+    "trainable_params": 129859584,
+    "final_loss": 0.5617,
+    "target_score": 1.0,
+    "format": 1.0,
+    "train_seconds": 383.4,
+    "peak_vram_gb": 10.4758
+  }
+]
